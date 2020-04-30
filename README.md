@@ -1,6 +1,6 @@
 Подробная информация по данному пректу описна в в файле laravel.vue.txt в корне проекта, а так же на на сайте 
 
-http://best-itpro.ru/news/vuejs_laravel7_1/ 
+http://best-itpro.ru 
 
 
 ## Предыдущая часть "Работа с Vue.JS в Laravel 7 (часть 1)":
