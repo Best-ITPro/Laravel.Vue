@@ -194,8 +194,14 @@ https://github.com/Best-ITPro/Laravel.Vue.Blank
 
 --------------
 
-Часть промежуточная:
+Предыдущая часть "Работа с Vue.JS в Laravel 7 (часть 1)":
 
+http://best-itpro.ru/news/vuejs_laravel7_1/
+
+https://github.com/Best-ITPro/Laravel.Vue.Blank
+
+
+Данная часть промежуточная, посвящённая сборке frontend на laravel:
 
 18) Сборка фронтенда (Laravel Mix)
 
@@ -374,7 +380,19 @@ mix.js('resources/js/app.js', 'public/js')
 https://github.com/Best-ITPro/Laravel.Vue
 
 
+Как развернуть проект на Laravel.
+
+Чтобы развернуть у себя проект на Larael, полученный из репозитория, авполните ряд действий, описанных в нашей публикации:
+"Базовая сборка блога (статьи, категории) на Laravel 7.x"
+http://best-itpro.ru/news/laravel7_blog/
+
+
+
+
 ;)
 
 
 // ------------
+
+
+Как 
