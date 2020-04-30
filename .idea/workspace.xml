@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc6d3b1a-0227-4964-89bd-8ac6fc31bcce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel.vue.txt" beforeDir="false" afterPath="$PROJECT_DIR$/laravel.vue.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +176,7 @@
       <workItem from="1588008752923" duration="6382000" />
       <workItem from="1588052210064" duration="9869000" />
       <workItem from="1588070324921" duration="8616000" />
-      <workItem from="1588170474469" duration="12070000" />
+      <workItem from="1588170474469" duration="15883000" />
     </task>
     <servers />
   </component>
